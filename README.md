@@ -1,2 +1,2 @@
-# uestcgate.sweetyknight.com
+# http://uestcgate.sweetyknight.com/index.html?=username
 
